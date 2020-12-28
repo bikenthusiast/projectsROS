@@ -1,0 +1,6 @@
+[submodule "catkin_ws/third_party/BMW-YOLOv3-Inference-API-CPU"]
+	path = catkin_ws/third_party/BMW-YOLOv3-Inference-API-CPU
+	url = https://github.com/BMW-InnovationLab/BMW-YOLOv3-Inference-API-CPU.git
+[submodule "catkin_ws/third_party/CameraRadarFusionNet"]
+	path = catkin_ws/third_party/CameraRadarFusionNet
+	url = https://github.com/TUMFTM/CameraRadarFusionNet.git
