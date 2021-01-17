@@ -4,3 +4,6 @@
 [submodule "catkin_ws/third_party/CameraRadarFusionNet"]
 	path = catkin_ws/third_party/CameraRadarFusionNet
 	url = https://github.com/TUMFTM/CameraRadarFusionNet.git
+[submodule "catkin_ws/third_party/MagicMirror"]
+	path = catkin_ws/third_party/MagicMirror
+	url = https://github.com/MichMich/MagicMirror.git
